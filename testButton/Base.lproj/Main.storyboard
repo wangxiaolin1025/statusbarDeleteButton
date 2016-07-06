@@ -24,7 +24,7 @@
                                         <real key="value" value="12"/>
                                     </userDefinedRuntimeAttribute>
                                     <userDefinedRuntimeAttribute type="number" keyPath="style">
-                                        <integer key="value" value="0"/>
+                                        <integer key="value" value="1"/>
                                     </userDefinedRuntimeAttribute>
                                     <userDefinedRuntimeAttribute type="number" keyPath="width">
                                         <real key="value" value="60"/>
